@@ -10,3 +10,4 @@ wheels/
 .venv
 uv.lock
 game_state.jsonl
+.python-version
